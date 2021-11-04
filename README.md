@@ -1,6 +1,6 @@
 # ikhsangama
 <h1 align="center">Hi 👋, My name is Ikhsan</h1>
-<h3 align="center">A passionate fullstack developer, devops, and cloud engineer</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 - 🔭 I’m currently working as a fullstack developer
 
