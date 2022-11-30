@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, My name is Ikhsan</h1>
 <h3 align="center">Lifelong learner software engineer</h3>
 
-- 🔭 I’m currently working as a fullstack developer
+- 🔭 I’m currently working as a software engineer
 
 - 👨‍💻 All of my projects are available at [ikhsangama.github.io](https://ikhsangama.github.io/myportfolio)
 
