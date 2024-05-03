@@ -4,10 +4,8 @@
 
 - 🔭 I’m currently working as a software engineer
 
-- 👨‍💻 All of my projects are available at [ikhsangama.github.io](https://ikhsangama.github.io/myportfolio)
+- 👨‍💻 All of my projects are available at [ikhsangama.com](https://ikhsangama.com)
 
 - 📝 I regulary write articles on [medium.com/@ikhsangama](https://medium.com/@ikhsangama)
-
-- 💬 Ask me about **Javascript(NodeJS), DevOps, AWS**
 
 - 📫 How to reach me **ikhsangama@gmail.com**
